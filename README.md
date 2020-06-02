@@ -13,6 +13,7 @@ A GUI application developed using **Python** & **Tkinter** Module which automati
 - Tkinter Module
 - Stack Exchange API
 
+## Screenshot
 ![Capture](https://user-images.githubusercontent.com/55776390/83537546-50b11b80-a512-11ea-89f7-10fa2cd6ddbe.png)
 
 # Contributions
